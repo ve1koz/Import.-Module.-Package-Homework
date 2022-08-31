@@ -1,2 +1,0 @@
-datetime
-django-selectel 2.0.5
